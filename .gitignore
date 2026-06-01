@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# .NET / F#
+bin/
+obj/
+
+# User-specific
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
